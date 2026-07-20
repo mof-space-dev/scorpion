@@ -19,4 +19,4 @@ The work is defined by its dramatic **negative/positive color inversion**, subtl
 - **Collaborator / Creative Coding**: Gemini
 
 ---
-Created with care to evoke ancient power and raw grit.
+Created with care to evoke ancient power and raw grit. 
